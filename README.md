@@ -38,22 +38,6 @@ The design focuses on simplicity, responsiveness, and easy integration with back
 5. Open your browser and visit:
     http://localhost:3000
 
-📁 Folder Structure:
-project-root/
-│
-├── src/
-│   ├── components/
-│   │   ├── Dashboard.jsx
-│   │   └── Profile.jsx
-│   ├── App.js
-│   └── index.js
-│
-├── public/
-│   └── index.html
-│
-├── package.json
-└── README.md
-
 🧩 Next Steps
 
 Integrate backend APIs for dynamic data.
