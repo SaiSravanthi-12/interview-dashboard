@@ -31,7 +31,7 @@ The design focuses on simplicity, responsiveness, and easy integration with back
    git clone https://github.com/SaiSravanthi-12/<your-repo-name>.git
 2. Navigate to the project folder:
 
-   cd <your-repo-name>
+   cd "<your-repo-name>"
 4. Install dependencies:
 
    npm install
