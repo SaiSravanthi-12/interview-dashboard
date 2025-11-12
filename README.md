@@ -22,6 +22,23 @@ The design focuses on simplicity, responsiveness, and easy integration with back
 - **Node.js & npm** (for dependency management)
 - Optional: **Axios / Fetch API** for backend communication
 
+## 📂 Folder Structure
+
+project-root/  
+│  
+├── src/  
+│   ├── components/  
+│   │   ├── Dashboard.jsx  
+│   │   └── Profile.jsx  
+│   ├── App.js  
+│   └── index.js  
+│  
+├── public/  
+│   └── index.html  
+│  
+├── package.json  
+└── README.md
+
 ---
 
 ## 📦 Installation
@@ -30,18 +47,21 @@ The design focuses on simplicity, responsiveness, and easy integration with back
    ```bash
    git clone https://github.com/SaiSravanthi-12/<your-repo-name>.git
 2. Navigate to the project folder:
-
+```
    cd "<your-repo-name>"
+```
 4. Install dependencies:
-
+```
    npm install
+```
 6. Start the application:
-
+```
    npm start
+```
 8. Open your browser and visit:
-
+```
    http://localhost:3000
-
+```
 🧩 Next Steps
 
 Integrate backend APIs for dynamic data.
