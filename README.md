@@ -30,13 +30,17 @@ The design focuses on simplicity, responsiveness, and easy integration with back
    ```bash
    git clone https://github.com/SaiSravanthi-12/<your-repo-name>.git
 2. Navigate to the project folder:
-    cd <your-repo-name>
-3. Install dependencies:
-    npm install
-4. Start the application:
-    npm start
-5. Open your browser and visit:
-    http://localhost:3000
+
+   cd <your-repo-name>
+4. Install dependencies:
+
+   npm install
+6. Start the application:
+
+   npm start
+8. Open your browser and visit:
+
+   http://localhost:3000
 
 🧩 Next Steps
 
